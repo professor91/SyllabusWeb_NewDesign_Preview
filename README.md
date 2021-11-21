@@ -12,3 +12,6 @@ This is a preview of second design of the website. <b>Everyone is invited for su
 # Tech used
 - HTML, CSS
 - Bootstrap
+
+# Preview
+Link of the preview:- <a href="https://professor91.github.io/SyllabusWeb_NewDesign_Preview/">Syllabus Web</a>
