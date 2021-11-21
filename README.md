@@ -2,7 +2,7 @@
 
 Project Syllabus Web aims to present syllabus of all the courses, offered Delhi University, in a more interactive manner than pdfs.
 
-This is a preview of second design of the website. Everyone is invited for suggestions, be it in code or in design or in content.
+This is a preview of second design of the website. <b>Everyone is invited for suggestions, be it in code or in design or in content.<b>
 
 # Note:
 1. "index.html" is the landing page of the website
